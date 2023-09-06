@@ -3,6 +3,32 @@
   "displayName": "code-snippet-vs-code-extension",
   "description": "code snippet",
   "version": "0.0.1",
+  "publisher": "devlopersabbir",
+  "bugs": {
+    "email": "devlopersabbir@gmail.com",
+    "url": "https://github.com/devlopersabbir/js-html-code-snippet/issues"
+  },
+  "author": {
+    "email": "devlopersabbir@gmail.com",
+    "name": "Sabbir Hossain Shuvo",
+    "url": "https://github.com/devlopersabbir"
+  },
+  "homepage": "https://github.com/devlopersabbir/js-html-code-snippet",
+  "keywords": [
+    "js",
+    "html",
+    "code snippet",
+    "js snippet",
+    "html snippet",
+    "html and js code snippet",
+    "JavaScript code snippet"
+  ],
+  "licenses": [
+    {
+      "type": "ISC"
+    }
+  ],
+  "readme": "https://github.com/devlopersabbir/js-html-code-snippet/blob/main/README.md",
   "engines": {
     "vscode": "^1.81.0"
   },
