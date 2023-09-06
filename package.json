@@ -1,8 +1,8 @@
 {
-  "name": "code-snippet-vs-code-extension",
-  "displayName": "code-snippet-vs-code-extension",
-  "description": "code snippet",
-  "version": "0.0.1",
+  "name": "js-html-code-snippet",
+  "displayName": "JS, HTML5 Code Snippet",
+  "description": "A awesome HTML5 and JavaScript code snippet that can help us to make coding more faster.",
+  "version": "0.0.2",
   "publisher": "devlopersabbir",
   "bugs": {
     "email": "devlopersabbir@gmail.com",
