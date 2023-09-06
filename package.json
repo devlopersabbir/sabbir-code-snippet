@@ -1,0 +1,20 @@
+{
+  "name": "code-snippet-vs-code-extension",
+  "displayName": "code-snippet-vs-code-extension",
+  "description": "code snippet",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "tsx",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
