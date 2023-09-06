@@ -2,8 +2,14 @@
   "name": "js-html-code-snippet",
   "displayName": "JS, HTML5 Code Snippet",
   "description": "A awesome HTML5 and JavaScript code snippet that can help us to make coding more faster.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "devlopersabbir",
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devlopersabbir/js-html-code-snippet",
+    "directory": "https://github.com/devlopersabbir/js-html-code-snippet"
+  },
   "bugs": {
     "email": "devlopersabbir@gmail.com",
     "url": "https://github.com/devlopersabbir/js-html-code-snippet/issues"
