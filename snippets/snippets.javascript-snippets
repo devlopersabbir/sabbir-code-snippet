@@ -1,21 +1,10 @@
 {
-  "HTML5 Boilerplate with JS": {
-    "prefix": "html&js",
-    "description": "HTML5 Boilerplate with JavaScript",
+  "JavaScript Hello World Message": {
+    "prefix": "jshello",
+    "description": "JavaScript Hello World Message",
     "body": [
-      "<!DOCTYPE html>",
-      "<html lang='en'>",
-      "<head>",
-      "    <meta charset='UTF-8'>",
-      "    <meta name='viewport' content='width=device-width, initial-scale=1.0'>",
-      "    <title>${1:Document}</title>",
-      "</head>",
-      "<body>",
-      "    ${2}",
-      "     <h1>Hello World</h1>",
-      "     <script src='app.js'></script>",
-      "</body>",
-      "</html>"
+      "console.clear();",
+      "console.log('Hello World!');"
     ]
   }
 }
