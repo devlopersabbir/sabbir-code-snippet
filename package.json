@@ -12,8 +12,12 @@
   "contributes": {
     "snippets": [
       {
-        "language": "tsx",
-        "path": "./snippets/snippets.code-snippets"
+        "language": "html",
+        "path": "./snippets/snippets.html-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.javascript-snippets"
       }
     ]
   }
