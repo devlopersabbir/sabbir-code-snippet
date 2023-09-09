@@ -16,7 +16,7 @@ beginners and experienced developers.
 - JavaScript
   - Console clear with a simple console log message
 
-### Uses Resource
+## Uses Resource
 
 **HTML All Shortcut and description**
 
