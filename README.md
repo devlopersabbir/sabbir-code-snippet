@@ -2,7 +2,7 @@
   <img src="/assets/logo.png" alt="HTML & JavaScript Code Snippet" width="130" />
 </p>
 
-# JS HTML Code Snippet
+# <center>JS HTML Code Snippet<center>
 
 This is a simple extension that provides code snippets for HTML and JavaScript.
 It helps to speed up the coding process by providing handy snippets for commonly
