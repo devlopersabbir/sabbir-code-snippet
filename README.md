@@ -29,3 +29,17 @@ beginners and experienced developers.
 | No. | Shortcut  | Description                                                            |
 | :-: | :-------: | :--------------------------------------------------------------------- |
 | 01  | `jshello` | JavaScript Hello World Message with `console.clear()` method included! |
+
+## Contributing...
+
+Since this package is fully open-source so, if you would like to contribute to
+this project, please follow these steps:
+
+1. Fork this repository.
+2. Clone your forked repository.
+3. For your changes.
+4. Make your changes, commit them
+5. If possible update `README.md` file based on your changes.
+6. Push them to your forked repository:
+7. Create a pull request on this repository.
+8. Add a simple message which you made change on your pull request.
