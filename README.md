@@ -18,14 +18,14 @@ beginners and experienced developers.
 
 ### Uses Resource
 
-==HTML All Shortcut and description==
+**HTML All Shortcut and description**
 
-| No. | Shortcut | Description                       |
-| :-: | :------: | :-------------------------------- |
-| 01  | html&js  | HTML5 Boilerplate with JavaScript |
+| No. | Shortcut  | Description                       |
+| :-: | :-------: | :-------------------------------- |
+| 01  | `html&js` | HTML5 Boilerplate with JavaScript |
 
-==JavaScript All Shortcut and description==
+**JavaScript All Shortcut and description**
 
-| No. | Shortcut | Description                                                            |
-| :-: | :------: | :--------------------------------------------------------------------- |
-| 01  | jshello  | JavaScript Hello World Message with `console.clear()` method included! |
+| No. | Shortcut  | Description                                                            |
+| :-: | :-------: | :--------------------------------------------------------------------- |
+| 01  | `jshello` | JavaScript Hello World Message with `console.clear()` method included! |
