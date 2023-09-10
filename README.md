@@ -4,10 +4,10 @@
 
 # <center>Sabbir Code Snippet<center>
 
-This is a simple extension that provides code snippets for HTML and JavaScript.
-It helps to speed up the coding process by providing handy snippets for commonly
-used code structures. It's easy to use and can be a great tool for both
-beginners and experienced developers.
+This is a simple extension that provides code snippets for all programming
+language and framwork. It helps to speed up the coding process by providing
+handy snippets for commonly used code structures. It's easy to use and can be a
+great tool for both beginners and experienced developers.
 
 ## Features
 
@@ -41,7 +41,7 @@ this project, please follow these steps:
 4. Open `snippets` directory and if you want to add new **framework snippet**
    then create a new file like `snippets.java.snippets` or Make your changes,
    and commit them.
-   - Remember, don't forget to added your language tagname inside this array
+   - Remember, don't forget to added your language `id` inside this array
    ```js
    "snippets": [
       {
