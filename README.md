@@ -2,7 +2,7 @@
   <img src="/assets/logo.png" alt="Code Snippet" width="130" />
 </p>
 
-# <center>Sabbir Code Snippet<center>
+# <center>Code Snippet<center>
 
 This is a simple extension that provides code snippets for all programming
 language and framwork. It helps to speed up the coding process by providing
