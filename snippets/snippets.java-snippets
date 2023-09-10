@@ -1,0 +1,13 @@
+{
+  "JavaHelloWorld": {
+    "prefix": "!javaVH",
+    "description": "Java public Class Void main() With Hello World Message",
+    "body": [
+      "public class ${TM_FILENAME_BASE} {",
+      "    public static void main(String[] args) {",
+      "        System.out.println(\"$0Hello World\");",
+      "    }",
+      "}"
+    ]
+  }
+}
