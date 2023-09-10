@@ -31,6 +31,12 @@ great tool for both beginners and experienced developers.
 | :-: | :-------: | :--------------------------------------------------------------------- |
 | 01  | `jshello` | JavaScript Hello World Message with `console.clear()` method included! |
 
+**Java Programming All Shortcut and description**
+
+| No. | Shortcut  | Description                                           |
+| :-: | :-------: | :---------------------------------------------------- |
+| 01  | `!javaVH` | Java Hello World Program with matched file name class |
+
 **HTML All Shortcut and description**
 
 | No. | Shortcut  | Description                       |
