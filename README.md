@@ -18,17 +18,24 @@ great tool for both beginners and experienced developers.
 
 ## Uses Resource
 
-**HTML All Shortcut and description**
+**ReactJS with TypeScript**
 
-| No. | Shortcut  | Description                       |
-| :-: | :-------: | :-------------------------------- |
-| 01  | `html&js` | HTML5 Boilerplate with JavaScript |
+| No.                                     | Shortcut | Description |
+| --------------------------------------- | -------- | ----------- |
+| 0.1                                     | `!rafct` | It will     |
+| create a arrow function with with types |
 
 **JavaScript All Shortcut and description**
 
 | No. | Shortcut  | Description                                                            |
 | :-: | :-------: | :--------------------------------------------------------------------- |
 | 01  | `jshello` | JavaScript Hello World Message with `console.clear()` method included! |
+
+**HTML All Shortcut and description**
+
+| No. | Shortcut  | Description                       |
+| :-: | :-------: | :-------------------------------- |
+| 01  | `html&js` | HTML5 Boilerplate with JavaScript |
 
 ## Contributing...
 
