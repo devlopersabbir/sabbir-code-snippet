@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="/assets/logo.png" alt="HTML & JavaScript Code Snippet" width="130" />
+  <img src="/assets/logo.png" alt="Code Snippet" width="130" />
 </p>
 
-# <center>JS HTML Code Snippet<center>
+# <center>Sabbir Code Snippet<center>
 
 This is a simple extension that provides code snippets for HTML and JavaScript.
 It helps to speed up the coding process by providing handy snippets for commonly
@@ -38,8 +38,23 @@ this project, please follow these steps:
 1. Fork this repository.
 2. Clone your forked repository.
 3. For your changes.
-4. Make your changes, commit them
-5. If possible update `README.md` file based on your changes.
+4. Open `snippets` directory and if you want to add new **framework snippet**
+   then create a new file like `snippets.java.snippets` or Make your changes,
+   and commit them.
+   - Remember, don't forget to added your language tagname inside this array
+   ```js
+   "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.html-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.javascript-snippets"
+      }
+    ]
+   ```
+5. If possible update `README.md` file based on your changes or new functions.
 6. Push them to your forked repository:
 7. Create a pull request on this repository.
-8. Add a simple message which you made change on your pull request.
+8. Add a simple message which you made change or add on your pull request.
