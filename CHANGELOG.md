@@ -1,11 +1,12 @@
 # Change Log
 
-All notable changes to the "JS-HTML-CODE-SNIPPET" extension will be documented
-in this file.
+## [0.0.4]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how
-to structure this file.
+- React TypeScript
+  - React TypeScript Arrow function creating with types props
+- Java
+  - Java `Hello World` Boilerplate
 
-## [Unreleased]
+## [0.0.3]
 
-- Initial release
+- Initial release of code snippet

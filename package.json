@@ -58,11 +58,11 @@
       },
       {
         "language": "typescriptreact",
-        "path": "./snippets/typescriptreact-snippets"
+        "path": "./snippets/snippets.typescriptreact-snippets"
       },
       {
         "language": "java",
-        "path": "./snippets/java-snippets"
+        "path": "./snippets/snippets.java-snippets"
       }
     ]
   }

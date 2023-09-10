@@ -1,0 +1,21 @@
+{
+  "ReactArrowFunctionWithTypesProps": {
+    "prefix": "!rafct",
+    "description": "ReactJs Function Component with Props Type",
+    "body": [
+      "import React from \"react\";",
+      "$0",
+      "type T${TM_FILENAME_BASE}Props = {};",
+      "$0",
+      "const Footer: React.FC<T${TM_FILENAME_BASE}Props> = ({}) => {",
+      "    return (",
+      "       <div>",
+      "            <h1>${TM_FILENAME_BASE}</h1>",
+      "       </div>",
+      "    );",
+      "};",
+      "$0",
+      "export default ${TM_FILENAME_BASE};"
+    ]
+  }
+}
